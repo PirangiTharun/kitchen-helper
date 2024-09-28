@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kitchen-helper/static/css/main.f855e6bc.css",
+    "main.js": "/kitchen-helper/static/js/main.5df86487.js",
+    "static/js/453.2c41c9f9.chunk.js": "/kitchen-helper/static/js/453.2c41c9f9.chunk.js",
+    "static/media/left-arrow.png": "/kitchen-helper/static/media/left-arrow.180c2d75f3ef8c65e946.png",
+    "index.html": "/kitchen-helper/index.html",
+    "main.f855e6bc.css.map": "/kitchen-helper/static/css/main.f855e6bc.css.map",
+    "main.5df86487.js.map": "/kitchen-helper/static/js/main.5df86487.js.map",
+    "453.2c41c9f9.chunk.js.map": "/kitchen-helper/static/js/453.2c41c9f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5df86487.js"
+  ]
+}
